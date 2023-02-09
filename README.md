@@ -48,3 +48,20 @@ Some points I learned in this lecture:
 </details>
 
 
+### Lecture 3
+> MVVM
+>
+> Conceptual overview of the architectural paradigm underlying the development of applications for iOS using SwiftUI (known as MVVM) and an explanation of a fundamental component of understanding the Swift programming language: its type system.  Then both of these are applied to the Memorize application started in the first two lectures.
+
+
+Some points I learned in this lecture:
+- MVVM Design Patterns
+- Struct 
+- Class
+- Protocol
+- Generics
+- Enum
+- Function
+- Init
+- Implement MVVM on Memorize project
+- And more
