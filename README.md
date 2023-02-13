@@ -84,3 +84,16 @@ Some points I learned in this lecture:
 <img src="https://user-images.githubusercontent.com/64538282/218374489-73f47a8d-23d7-4a06-85b5-d99ecfd04f8f.gif" width="200">
 
 </details>
+
+
+### Lecture 5
+> Properties Layout @ViewBuilder
+>
+> Explore property observers, computed properties, @State and @ViewBuilder.  The mechanisms behind how Views are layed out on screen are examined followed by a demo which chooses a better font for each card in Memorize depending on the space available.  Along the way, apply better access control to Memorize's internal API.
+
+Some points I learned in this lecture:
+- Layouting
+- Geometry Reader
+- Computed Properties
+- Extensions
+- And more
