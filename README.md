@@ -60,8 +60,27 @@ Some points I learned in this lecture:
 - Class
 - Protocol
 - Generics
-- Enum
 - Function
 - Init
 - Implement MVVM on Memorize project
 - And more
+
+### Lecture 4
+> More MVVM enum Optionals
+>
+> The MVVM architecture is fully applied to Memorize.  The important Swift concepts of enums and Optionals are covered and used to finish off the game logic of the Memorize game.
+
+
+Some points I learned in this lecture:
+- Implement MVVM more futher on Memorize Project
+- Enum 
+- Optional
+- Reactive Architecture
+- And more
+
+<details>
+<summary>Final view of this lecture: </summary>
+
+<img src="https://user-images.githubusercontent.com/64538282/218374489-73f47a8d-23d7-4a06-85b5-d99ecfd04f8f.gif" width="200">
+
+</details>
